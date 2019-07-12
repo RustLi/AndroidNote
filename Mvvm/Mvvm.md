@@ -12,7 +12,7 @@
 
 核心采用数据绑定，数据驱动UI。
 
-![img](F:\LearningDocs\Mvvm\architecture)
+![img](F:\LearningDocs\Mvvm\flowPic\architecture.png)
 
 ### 实例
 
