@@ -14,6 +14,19 @@
 
 ![img](F:\LearningDocs\Mvvm\flowPic\architecture.png)
 
+###  编译
+
+* App module下的build.gradle添加
+
+~~~java
+android {
+    ...
+    dataBinding {
+        enabled = true
+    }
+}
+~~~
+
 ### 实例
 
 * Model
