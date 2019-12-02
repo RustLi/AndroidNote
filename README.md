@@ -1,2 +1,7 @@
 ## 说明
-学习Android Jetpack
+记录学习Android Jetpack相关组件。
+
+主要内容有：
+
+* mvvm
+* room
