@@ -12,7 +12,7 @@
 
 核心采用数据绑定，数据驱动UI。
 
-![img](/Users/lwl/AndroidStudioProjects/lwl_code/JetpackLearning/JetpackLearning/mvvm/architecture.png)
+![img](https://github.com/RustLi/JetpackLearning/blob/master/Mvvm/architecture.png)
 
 ###  编译
 
