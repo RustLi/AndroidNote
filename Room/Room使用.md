@@ -45,7 +45,7 @@ allprojects {
 
 * 三者关系图
 
-  ![](/Users/lwl/AndroidStudioProjects/lwl_code/JetpackLearning/JetpackLearning/room/room_architecture.png)
+  ![](https://github.com/RustLi/JetpackLearning/blob/master/Room/room_architecture.png)
 
 ### 使用
 
