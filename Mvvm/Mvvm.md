@@ -1,4 +1,4 @@
-# M-V-VM
+# 说明
 
 ### 概述
 
@@ -12,7 +12,7 @@
 
 核心采用数据绑定，数据驱动UI。
 
-![img](F:\LearningDocs\Mvvm\flowPic\architecture.png)
+![img](/Users/lwl/AndroidStudioProjects/lwl_code/JetpackLearning/JetpackLearning/mvvm/architecture.png)
 
 ###  编译
 
