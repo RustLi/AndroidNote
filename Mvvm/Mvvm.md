@@ -12,7 +12,7 @@
 
 核心采用数据绑定，数据驱动UI。
 
-![img](https://github.com/RustLi/AndroidNote/blob/master/Mvvm/architecture.png)
+![img](https://github.com/RustLi/AndroidNote/blob/master/Mvvm/architecture.png?raw=true)
 
 ###  编译
 
